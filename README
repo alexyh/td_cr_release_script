@@ -1,4 +1,8 @@
 This is test project on git for TD cr release
 automation script. It extract the userful information
 from PRISM web service and edit them in the release
-email for developers and integrators.
+email for developers and integrators. 
+
+In order for the script to work, the environment needs
+to be setup so that the required python modules are 
+installed and PRISM web service is accessible.
